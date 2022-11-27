@@ -1,0 +1,12 @@
+{
+  "accentColor": "#9f65e6",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "PingFang SC",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "nativeMenus": true,
+  "showViewHeader": true
+}

@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "a3df0268a28768de",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b9e8ca8da369b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27f89dabb10d7e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "相关资源/程序是怎么跑起来的.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30a719c04dc60a0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a4e257f7dfb37b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2788ca47ab852d0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86967c45c66fe6e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4572bd383bcbf765",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "4d5803eabd12d4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f58ff1064b98dab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee31344e1c115a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "相关资源/程序是怎么跑起来的.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7de8ad20edf45c90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "相关资源/程序是怎么跑起来的.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f4620acd1bb8029",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "96a2bc4d1fa7ab18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "相关资源/程序是怎么跑起来的.md"
+              }
+            }
+          },
+          {
+            "id": "fc07ac2177975b6b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27f89dabb10d7e10",
+  "lastOpenFiles": [
+    "相关资源/计算机科学速成课.md",
+    "附件/C++程序设计语言.第4部分 标准库.原书第4版.pdf",
+    "03 面向对象程序设计/面向对象程序设计.md",
+    "00 其他/学习计划.md",
+    "00 其他/我的基础.md",
+    "00 其他/课程相关信息汇总.md",
+    "01 离散数学/离散数学.md",
+    "未命名/Intel.md",
+    "相关资源/程序是怎么跑起来的.md",
+    "02 程序设计基础/程序设计基础.md"
+  ]
+}

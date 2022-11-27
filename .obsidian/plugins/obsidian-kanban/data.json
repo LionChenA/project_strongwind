@@ -1,0 +1,12 @@
+{
+  "new-card-insertion-method": "prepend",
+  "link-date-to-daily-note": true,
+  "prepend-archive-date": true,
+  "date-picker-week-start": 1,
+  "prepend-archive-separator": "end @",
+  "hide-date-in-title": true,
+  "hide-date-display": true,
+  "show-relative-date": true,
+  "date-format": "MM-DD-YYYY",
+  "date-display-format": "MM-DD-YYYY"
+}

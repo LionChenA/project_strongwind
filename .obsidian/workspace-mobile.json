@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "462dc8b1e8482762",
+    "type": "split",
+    "children": [
+      {
+        "id": "366c1019831e3741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e43062b2aa13019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01日记/11-10-2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1753bba106d8e37",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "95c6c0c00e408487",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "714a8c2b7923e37c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "89d5e137ed55ec8d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "76c314459c26c45e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "02eef950830eea8a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab10e7d455bfce52",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01日记/11-10-2022.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8d297f2d582940cc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "01日记/11-10-2022.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "15196b9b75f6dbae",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "01日记/11-10-2022.md"
+          }
+        }
+      },
+      {
+        "id": "159b341a243f5a78",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "8e43062b2aa13019",
+  "lastOpenFiles": [
+    "01日记/11-12-2022.md",
+    "Simpread/6-Obsidian 最强插件：QuickAdd.md",
+    "Simpread/6-Obsidian 最强插件：QuickAdd@annote.md"
+  ]
+}

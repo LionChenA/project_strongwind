@@ -1,0 +1,15 @@
+{
+  "showFrontmatter": false,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "未命名",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "附件",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "vimMode": true
+}
